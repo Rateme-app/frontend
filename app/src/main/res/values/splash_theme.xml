@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash Screen Theme. -->
+    <style name="Theme.AppSplash" parent="Theme.Material3.Light">
+        <item name="background">@color/background</item>
+        <item name="icon">@mipmap/ic_launcher_foreground</item>
+        <item name="android:animationDuration">300</item>
+        <!-- Status bar and Nav bar configs -->
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+</resources>
